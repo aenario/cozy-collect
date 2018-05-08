@@ -54,7 +54,7 @@
   },
   "homepage": "https://github.com/cozy/cozy-collect#readme",
   "dependencies": {
-    "cozy-scripts": "0.5.5",
+    "cozy-scripts": "0.7.0",
     "date-fns": "1.29.0",
     "enzyme-adapter-react-15": "1.0.5",
     "eslint": "4.9.0",
